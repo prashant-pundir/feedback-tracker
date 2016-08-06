@@ -55,3 +55,9 @@ $ git add GIT.md
 $ git commit -m "commit message"
 $ git push origin branch-name
 ```
+
+## Delete branch
+
+```sh
+$ git banch -d branch-name
+```
