@@ -56,6 +56,12 @@ $ git commit -m "commit message"
 $ git push origin branch-name
 ```
 
+## Switch branch
+
+```sh
+$ git checkout branch-name
+```
+
 ## Delete branch
 
 ```sh
